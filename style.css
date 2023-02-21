@@ -1,0 +1,24 @@
+#welcome{
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+#checkName{
+    text-align: center;
+}
+
+#rooms,#users,#chat{
+    border-style: solid;
+    border-color: #a9a9aa;
+    border-width: 1px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+
+#send{
+    text-align: center;
+}
+
+#create{
+    text-align: center;
+}
